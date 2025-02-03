@@ -1,8 +1,31 @@
-# React + Vite
+# ChatApp
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ChatApp is a real-time messaging application built with React and Vite. It allows users to send and receive messages in real-time, and displays the list of active users.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Real-time messaging between users
+- Display of active users
+- Responsive design
+- Gradient styling for input and button elements
+
+## Technologies Used
+
+- React
+- Vite
+- Socket.io for real-time communication
+- CSS for styling
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js and npm installed on your machine
+
+### Installation
+
+1. Clone the repository:
+
+```sh
+git clone https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME.git
+```
