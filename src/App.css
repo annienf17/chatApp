@@ -1,0 +1,60 @@
+body {
+  background-color: #2f2f2f; /* Graphite background */
+  color: white;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.app {
+  padding: 50px;
+}
+
+.user-list {
+  margin-bottom: 20px;
+}
+
+.user-list h2 {
+  margin: 0;
+  padding: 0;
+}
+
+.input-area {
+  display: flex;
+  margin-top: 10px;
+}
+
+.input-area input {
+  flex: 1;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background: linear-gradient(
+    45deg,
+    #6a11cb,
+    #2575fc
+  ); /* Purple-blue gradient */
+  color: white;
+}
+
+.input-area button {
+  padding: 20px;
+  margin-left: 10px;
+  border: none;
+  background: linear-gradient(
+    45deg,
+    #6a11cb,
+    #2575fc
+  ); /* Purple-blue gradient */
+  color: white;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.input-area button:hover {
+  background: linear-gradient(
+    45deg,
+    #2575fc,
+    #6a11cb
+  ); /* Reverse gradient on hover */
+}
