@@ -21,11 +21,3 @@ ChatApp is a real-time messaging application built with React and Vite. It allow
 ### Prerequisites
 
 - Node.js and npm installed on your machine
-
-### Installation
-
-1. Clone the repository:
-
-```sh
-git clone https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME.git
-```
